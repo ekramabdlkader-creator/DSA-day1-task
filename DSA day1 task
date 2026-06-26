@@ -1,0 +1,7 @@
+
+print("hello world")
+x=10.9
+print(type(x))
+
+x= int(input("enter the number"))
+print(type(x))
